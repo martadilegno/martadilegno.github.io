@@ -1,6 +1,6 @@
 ---
 title: "Mobile per piante [in corso]"
-excerpt: "<br/>"
+excerpt: ""
 collection: portfolio
 ---
 
