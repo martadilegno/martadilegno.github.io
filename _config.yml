@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "it-IT"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Martadilegno"
 title_separator          : "-"
 name                     : &name "Marta Binaghi"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "me2025v3.png"
   name             : "Marta"
-  pronouns         : "lei | she/her"  
+  pronouns         : "lei//she/her"  
   bio              : "Falegname"
   location         : "Milano, Italia"
   employer         : #"Red Brick University"
