@@ -1,6 +1,9 @@
 {
   "name": "Martadilegno",
   "short_name": "MdL",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
   "icons": [
     {
       "src": "/images/favicon-32x32.png",
@@ -26,8 +29,5 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "display": "standalone"
+  ]
 }
