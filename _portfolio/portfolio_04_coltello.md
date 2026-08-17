@@ -1,6 +1,6 @@
 ---
 title: "Coltello"
-excerpt: "<img width='300' height='200' src='/images/coltello_01.JPG'>"
+excerpt: "<img width='300' height='200' src='/images/coltello_01lowRes.png'>"
 collection: portfolio
 ---
 
