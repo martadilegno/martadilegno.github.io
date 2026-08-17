@@ -1,6 +1,6 @@
 ---
 title: "Scatola"
-excerpt: "<img width='300' height='200' src='/images/scatola_01.JPG'>"
+excerpt: "<img width='300' height='200' src='/images/scatola_01lowRes.png'>"
 collection: portfolio
 ---
 
