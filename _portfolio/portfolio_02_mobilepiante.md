@@ -1,6 +1,6 @@
 ---
 title: "Mobile per piante"
-excerpt: "<img width='300' height='200' src='/images/piante_01.JPG'>"
+excerpt: "<img width='300' height='200' src='/images/piante_01lowRes.png'>"
 collection: portfolio
 ---
 
