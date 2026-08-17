@@ -1,6 +1,6 @@
 ---
 title: "Travetto portatile per arrampicata"
-excerpt: "<img width='200' height='100' src='/images/travetto_01.JPG'>"
+excerpt: "<img width='200' height='100' src='/images/travetto_01lowRes.png'>"
 collection: portfolio
 ---
 
