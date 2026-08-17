@@ -1,6 +1,6 @@
 ---
 title: "Comodino in multistrato fenolico"
-excerpt: "<img width='200' height='300' src='/images/comodino_01.JPG'>"
+excerpt: "<img width='200' height='300' src='/images/comodino_01lowRes.png'>"
 collection: portfolio
 ---
 
