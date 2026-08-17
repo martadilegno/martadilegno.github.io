@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Martadilegno"
 title_separator          : "-"
 name                     : &name "Marta Binaghi"
-description              : &description "Portfolio di Marta"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Portfolio di Marta Binaghi"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://martadilegno.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,8 +24,8 @@ repository               : "martadilegno/martadilegno.github.io"
 author:
   # Biographic information
   avatar           : "me2025v3.png"
-  name             : "Marta"
-  pronouns         : "lei//she/her"  
+  name             : "Marta Binaghi"
+  pronouns         : "lei | she/her"  
   bio              : "Falegname"
   location         : "Milano, Italia"
   employer         : #"Red Brick University"
