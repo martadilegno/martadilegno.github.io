@@ -9,7 +9,7 @@ La lama è stata forgiata in un laboratorio in Svizzera a partire dalla molla di
 Il manico è stato fatto a partire da legno di recupero a Bricheco, incollato con colla bicomponente, e trattato con olio di lino e olio di tung.
 <br/>
 <br/>
-<img align="left" width="600" height="400" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/coltello_01.JPG?raw=true" alt="Foto del coltello" />
+<img align="left" width="600" height="400" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/coltello_01lowRes.png?raw=true" alt="Foto del coltello" />
 <br clear="left"/>
 <br clear="left"/>
 <img align="left" width="360" height="540" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/coltello_02.JPG?raw=true" alt="Foto del coltello in particolare la parte di giunzione tra la lama e il manico" />
