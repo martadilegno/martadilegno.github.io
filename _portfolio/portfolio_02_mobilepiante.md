@@ -3,7 +3,7 @@ title: "Mobile per piante"
 excerpt: "<img width='300' height='200' src='/images/piante_01lowRes.png'>"
 collection: portfolio
 ---
-<img align="left" width="360" height="120" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_01lowRes.png?raw=true" alt="Foto di uno scaffale del mobile con due vasi di cactus" />
+<img align="left" width="360" height="240" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_01lowRes.png?raw=true" alt="Foto di uno scaffale del mobile con due vasi di cactus" />
 <br clear="left"/>
 Un mobile per piante da balcone con due scaffali.<br/>
 Eseguito su misura per un balcone stretto, con piedi regolabili per poterlo appoggiare tra il pavimento e il piano del davanzale (rialzato di 2.2cm).<br/>
