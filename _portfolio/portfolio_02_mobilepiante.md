@@ -3,14 +3,16 @@ title: "Mobile per piante"
 excerpt: "<img width='300' height='200' src='/images/piante_01lowRes.png'>"
 collection: portfolio
 ---
-
+<img align="left" width="360" height="120" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_01lowRes.png?raw=true" alt="Foto di uno scaffale del mobile con due vasi di cactus" />
+<br clear="left"/>
 Un mobile per piante da balcone con due scaffali.<br/>
 Eseguito su misura per un balcone stretto, con piedi regolabili per poterlo appoggiare tra il pavimento e il piano del davanzale (rialzato di 2.2cm).<br/>
 Disegno originale, eseguito con materiali di recupero: tavole per la struttura, doghe per gli scaffali e corda da arrampicata per mantenere gli scaffali. Struttura senza parti in metallo, a eccezione dei piedi regolabili.
 Traversi fissati con incastri tenone-mortasa. La "L" della struttura è unita con un incastro a mezzo legno e spine di rinforzo.<br/>
 <br/>
-<img align="left" width="600" height="400" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_01lowRes.png?raw=true" alt="Foto di uno scaffale del mobile con due vasi di cactus" />
+<img align="left" width="660" height="510" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_draw.png?raw=true" alt="Disegno tecnico del mobile" />
 <br clear="left"/>
+
 ### Struttura portante
 <img align="left" width="400" height="600" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_02.jpeg?raw=true" alt="Foto della struttura del mobile per piante" />
 <br clear="left"/>
