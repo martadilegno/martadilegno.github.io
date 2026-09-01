@@ -2,6 +2,7 @@
 title: "Coltello"
 excerpt: "<img width='300' height='200' src='/images/coltello_01lowRes.png'>"
 collection: portfolio
+permalink: /pf/portfolio_04_coltello
 ---
 
 Un coltello che ho forgiato in Svizzera e completato in Italia.<br/>
