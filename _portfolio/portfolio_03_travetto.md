@@ -2,6 +2,7 @@
 title: "Travetto portatile per arrampicata"
 excerpt: "<img width='200' height='100' src='/images/travetto_01lowRes.png'>"
 collection: portfolio
+permalink: /pf/portfolio_03_travetto
 ---
 
 Un travetto che dispone di scassi da 25, 20, 15, 10 mm per l'allenamento delle dita in arrampicata. Il travetto può anche essere usato per trazioni sfruttando il bordo inclinato.<br/>
