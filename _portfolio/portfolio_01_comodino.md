@@ -2,6 +2,7 @@
 title: "Comodino in multistrato fenolico"
 excerpt: "<img width='200' height='300' src='/images/comodino_01lowRes.png'>"
 collection: portfolio
+permalink: /pf/portfolio_01_comodino
 ---
 
 Un comodino in multistrato fenolico con cassetto e antina.<br/>
