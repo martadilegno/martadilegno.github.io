@@ -2,6 +2,7 @@
 title: "Mobile per piante"
 excerpt: "<img width='300' height='200' src='/images/piante_01lowRes.png'>"
 collection: portfolio
+permalink: /pf/portfolio_02_mobilepiante/
 ---
 <img align="left" width="360" height="240" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_01lowRes.png?raw=true" alt="Foto di uno scaffale del mobile con due vasi di cactus" />
 <br clear="left"/>
