@@ -21,7 +21,7 @@ Il legno utilizzato è di recupero.<br/>
 ### Dettaglio degli incastri
 <img align="left" width="600" height="400" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/reggifelce_03lowRes.png?raw=true" alt="Foto della parte alta del supporto" />
 <br clear="left"/>
+
 <img align="left" width="400" height="600" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/reggifelce_04lowRes.png?raw=true" alt="Foto della parte alta del supporto" />
 <br clear="left"/>
-<img align="left" width="360" height="540" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/piante_03lowRes.png?raw=true" alt="Foto dell'incastro della L della struttura" />
-<br clear="left"/>
+
