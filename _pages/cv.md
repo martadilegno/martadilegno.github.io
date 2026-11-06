@@ -29,6 +29,17 @@ Competenze
 
 Formazione
 ======
+### Novembre 2026 (in corso) - Corso serale per programmatori-operatori macchine CNC settore legno e arredo
+AFOL Monza e Brianza - CFP Terragni di Meda
+
+Corso di 100 ore. Contenuti:
+* Predisporre programmi di lavorazione per la realizzazione di manufatti secondo le indicazioni ricevute, il progetto e le necessità operative.
+* Modificare programmi rispetto a esigenze diverse.
+* Attrezzaggio della macchina in relazione alle lavorazioni da eseguire.
+* Testare/eseguire le lavorazioni programmate.
+* Verifica e controllo di rispondenza del manufatto rispetto alle richieste.
+* Gestione e Manutenzione CNC.
+
 ### Giugno 2026 - Corso Falegname mobiliere
 [Siam1838 - Società d'incoraggiamento d'arti e mestieri](https://www.siam1838.it/) - Milano
 
