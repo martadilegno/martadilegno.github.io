@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+<img align="left" width="1020" height="150" src="https://github.com/martadilegno/martadilegno.github.io/blob/master/images/banner.png?raw=true" alt="Alcune foto delle cose prodotte in legno e dei disegni tecnici" />
+<br clear="left"/>
+
 ### Ciao!
 Questo sito contiene [il mio curriculum](https://martadilegno.github.io/cv/) e [le cose che ho prodotto](https://martadilegno.github.io/portfolio/).<br/>
 Dagli un'occhiata!<br/>
